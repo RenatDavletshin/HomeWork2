@@ -1,0 +1,15 @@
+/Users/immortal1307/Desktop/HomeWork2/FourthTask/bin/Debug/net6.0/FourthTask
+/Users/immortal1307/Desktop/HomeWork2/FourthTask/bin/Debug/net6.0/FourthTask.deps.json
+/Users/immortal1307/Desktop/HomeWork2/FourthTask/bin/Debug/net6.0/FourthTask.runtimeconfig.json
+/Users/immortal1307/Desktop/HomeWork2/FourthTask/bin/Debug/net6.0/FourthTask.dll
+/Users/immortal1307/Desktop/HomeWork2/FourthTask/bin/Debug/net6.0/FourthTask.pdb
+/Users/immortal1307/Desktop/HomeWork2/FourthTask/obj/Debug/net6.0/FourthTask.csproj.AssemblyReference.cache
+/Users/immortal1307/Desktop/HomeWork2/FourthTask/obj/Debug/net6.0/FourthTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/immortal1307/Desktop/HomeWork2/FourthTask/obj/Debug/net6.0/FourthTask.AssemblyInfoInputs.cache
+/Users/immortal1307/Desktop/HomeWork2/FourthTask/obj/Debug/net6.0/FourthTask.AssemblyInfo.cs
+/Users/immortal1307/Desktop/HomeWork2/FourthTask/obj/Debug/net6.0/FourthTask.csproj.CoreCompileInputs.cache
+/Users/immortal1307/Desktop/HomeWork2/FourthTask/obj/Debug/net6.0/FourthTask.dll
+/Users/immortal1307/Desktop/HomeWork2/FourthTask/obj/Debug/net6.0/refint/FourthTask.dll
+/Users/immortal1307/Desktop/HomeWork2/FourthTask/obj/Debug/net6.0/FourthTask.pdb
+/Users/immortal1307/Desktop/HomeWork2/FourthTask/obj/Debug/net6.0/FourthTask.genruntimeconfig.cache
+/Users/immortal1307/Desktop/HomeWork2/FourthTask/obj/Debug/net6.0/ref/FourthTask.dll
